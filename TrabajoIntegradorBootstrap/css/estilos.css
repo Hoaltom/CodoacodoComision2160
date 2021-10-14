@@ -1,6 +1,10 @@
 nav img{
     width: 120px;
 }
+.card-img-overlay{
+    margin-right: 10%;
+    text-align: right;
+}
 u {
     border-bottom:1px dotted #000000;
     color:#333333;
