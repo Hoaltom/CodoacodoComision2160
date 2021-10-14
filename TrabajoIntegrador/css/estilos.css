@@ -1,6 +1,9 @@
 nav img{
     width: 120px;
 }
+.card-img {
+    filter: brightness(50%);
+  }
 .card-img-overlay{
     margin-right: 10%;
     text-align: right;
