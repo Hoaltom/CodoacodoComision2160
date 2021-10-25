@@ -1,0 +1,36 @@
+nav img{
+    width: 120px;
+}
+.card-img {
+    filter: brightness(50%);
+  }
+.card-img-overlay{
+    margin-right: 10%;
+    text-align: right;
+}
+u {
+    border-bottom:1px dotted #000000;
+    color:#333333;
+    text-decoration:none;
+    }
+.btn-enviar{
+		background-color: #96c93e;
+		color: white;
+}
+.card{
+    margin: 5px;
+}
+.btn-codo{
+        background-color: #97c93e;
+        color: white;
+        width: 98%;
+        margin: 2%;
+      }    
+footer{
+    background-color: #214d67 ;
+    height: 150px;
+	margin-top: 3px;
+}
+
+
+    
